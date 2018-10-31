@@ -27,7 +27,7 @@ $ vagrant up
 The Apache server is available at <http://192.168.66.6/>
 
 #### MySQL
-The MySQL server is available at port 306 as usual.
+The MySQL server is available at port 3306 as usual.
 Username: root
 Password: root
 
